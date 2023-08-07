@@ -1,0 +1,1 @@
+I enjoyed attempting this assignment. I tried writing the source code in python as I am learning a lot in python this semester, so was a good learning experience too. I think it was a good assignment to understand the working of DNS servers right after learning about them in class.

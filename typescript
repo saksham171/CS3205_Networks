@@ -1,0 +1,50 @@
+Script started on 2023-03-02 09:56:00+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="110" LINES="28"]
+]0;saksham@ss:~/Documents/CS3205_Networks/Lab2[?2004h
+ [1;31m╭─[0m[1;31msaksham[0m@[1;2;31mss[0m in [35m~/Documents/CS3205_Networks/Lab2[0m via [1;33m [0m[1;33m[0m[1;33mv3.10.9[0m[1;33m [0mtook [1;33m14ms[0m
+ [1;31m╰─λ[0m exitmake clean
+[?2004lrm NR.output
+rm RDS.output
+rm TDS_com.output
+rm TDS_edu.output
+rm ADS1.output
+rm ADS2.output
+rm ADS3.output
+rm ADS4.output
+rm ADS5.output
+rm ADS6.output
+]0;saksham@ss:~/Documents/CS3205_Networks/Lab2[?2004h
+ [1;31m╭─[0m[1;31msaksham[0m@[1;2;31mss[0m in [35m~/Documents/CS3205_Networks/Lab2[0m via [1;33m [0m[1;33m[0m[1;33mv3.10.9[0m[1;33m [0mtook [1;33m20ms[0m
+ [1;31m╰─λ[0m make clean[C[C[C[C[C[6Pexitmake
+[?2004lpython3 lab2-cs20b067.py 10000 input.txt
+Enter Server Name: www.bank.com
+DNS Mapping: 202.15.5.1
+
+Enter Server Name: smtp.cougar.edu
+DNS Mapping: 212.18.25.2
+
+Enter Server Name: ftp.b store.com
+DNS Mapping: 143.11.5.23
+
+Enter Server Name: sshd1.brown.edu
+DNS Mapping: 192.13.5.4
+
+Enter Server Name: vpn.shop.com
+DNS Mapping: 133.54.5.5
+
+Enter Server Name: ftp.mynah.com
+No DNS record found.
+
+Enter Server Name: ftp.mynah.edu
+DNS Mapping: 198.167.5.3
+
+Enter Server Name: www.notreal.com
+No DNS record found.
+
+Enter Server Name: bye
+All Server Processes are killed. Exiting.
+]0;saksham@ss:~/Documents/CS3205_Networks/Lab2[?2004h
+ [1;31m╭─[0m[1;31msaksham[0m@[1;2;31mss[0m in [35m~/Documents/CS3205_Networks/Lab2[0m via [1;33m [0m[1;33m[0m[1;33mv3.10.9[0m[1;33m [0mtook [1;33m58s[0m
+ [1;31m╰─λ[0m exit
+[?2004lexit
+
+Script done on 2023-03-02 09:57:06+05:30 [COMMAND_EXIT_CODE="0"]
